@@ -1,0 +1,7 @@
+ # DESAFIO DA AULA # - FLATLIST ou MAP
+
+1. Crie um projeto em React Native. (Feito)
+2. Na tela principal, terá o seguinte comportamento:
+2.1 Crie um array com os seguintes nomes: Ana Maria, Bruno  Alves, Carlos José, Daniel Martins, Efraim Gomes e Francisco Junior. 
+2.2 Crie uma maneira de carregar a lista de nomes do array e apresente na tela do usuário. 
+3. Faça a formatação do layout do app. 
